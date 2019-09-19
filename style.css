@@ -1,0 +1,95 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #E7E6E6;
+    font-family: "calibri";
+    font-size: 12px;
+}
+
+
+header {
+    background-image: url("https://blog.interflora.fr/wp-content/uploads/2016/08/Roses-conseils.jpg");
+    background-size: cover;
+    vertical-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: auto;
+    text-align: center;
+    font-size: 25px;
+    height: 120px;
+    color: white;
+    text-shadow: 6px 3px 5px black;
+
+}
+
+#sommaire {
+    color: #F88712;
+}
+
+h2 {
+    color: #F88712;
+}
+
+#navlist {
+    font-size: 14px;
+}
+
+.fille {
+    filter: drop-shadow(5px 9px 4px brown);
+    transform:translate(-10px, 0px);
+    transform: rotateZ(3deg);
+}
+
+#apdm {
+    color: black;
+    text-align: center;
+}
+
+#colonnegauche {
+    width: 150px;
+    float: left;
+    margin-right: 20px;
+    margin-top: 15px;
+    background-color: #FCE4CB;
+    padding: 10px 5px 10px 5px;
+}
+
+#colonnedroite {
+    background-color: white;
+    padding: 3px 5px 6px 5px;
+
+}
+
+nav {
+    width: auto;
+	height:150px;
+	vertical-align: center;
+	padding-top: 30px;
+
+
+}
+
+#decision {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#suggestion {
+    margin: 20px;
+}
+
+.container {
+    text-align: center;
+}
+
+#ddj {
+    color: red;
+}
+
+.contact {
+    border-style: ridge;
+    background-color: #FCC994;
+}
